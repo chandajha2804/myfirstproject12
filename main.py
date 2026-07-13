@@ -13,3 +13,13 @@ shopping_list = [item1, item2, item3]
 
 # Print the shopping_list data structure
 print(shopping_list)
+
+
+print("Enter the third item")
+item4 = input()
+
+# Create the shopping_list containing only those three items
+shopping_list = [item1, item2, item3, item4]
+
+# Print the shopping_list data structure
+print(shopping_list)
